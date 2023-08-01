@@ -1,0 +1,55 @@
+.box{
+    margin-top:100px;
+    margin-left: 500px;
+    width:380px;
+    height:520px;
+    background-color:aquamarine;
+    border-radius:5px;
+    border: 2px solid black;
+}
+.value{
+    margin:center;
+    height:50px;
+}
+.con1{
+    width:380px;
+    height:70px;
+    background-color:bisque;
+}
+input{
+    background-color: aqua;
+    margin: center;
+}
+button{
+    margin:center;
+    font-size:50px;
+    height:60px;
+    width:60px;
+    margin-left:50px;
+    margin-top:20px;
+}
+table {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+input[type="button"] {
+    width: 100%;
+    padding: 20px 40px;
+    background-color: green;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+  
+input[type="text"] {
+    padding: 20px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid black;
+} 
